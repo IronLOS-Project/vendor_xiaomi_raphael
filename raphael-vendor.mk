@@ -36,6 +36,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/raphael/proprietary/media/audio/ui/popup_throne_room_up.ogg:$(TARGET_COPY_OUT_SYSTEM)/media/audio/ui/popup_throne_room_up.ogg \
     vendor/xiaomi/raphael/proprietary/media/audio/ui/popup_yingyan_down.ogg:$(TARGET_COPY_OUT_SYSTEM)/media/audio/ui/popup_yingyan_down.ogg \
     vendor/xiaomi/raphael/proprietary/media/audio/ui/popup_yingyan_up.ogg:$(TARGET_COPY_OUT_SYSTEM)/media/audio/ui/popup_yingyan_up.ogg \
+    vendor/xiaomi/raphael/proprietary/media/audio/ui/popup_super_mario_down.ogg:$(TARGET_COPY_OUT_SYSTEM)/media/audio/ui/popup_super_mario_down.ogg \
+    vendor/xiaomi/raphael/proprietary/media/audio/ui/popup_super_mario_up.ogg:$(TARGET_COPY_OUT_SYSTEM)/media/audio/ui/popup_super_mario_up.ogg \
     vendor/xiaomi/raphael/proprietary/vendor/firmware/widevine.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/widevine.b00 \
     vendor/xiaomi/raphael/proprietary/vendor/firmware/widevine.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/widevine.b01 \
     vendor/xiaomi/raphael/proprietary/vendor/firmware/widevine.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/widevine.b02 \
